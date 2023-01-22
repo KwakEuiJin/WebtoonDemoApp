@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebtoonDemoApp</string>
+    <string name="last_back">마지막 시점 돌아가기</string>
+    <string name="tab_name_change">탭 이름 바꾸기</string>
+</resources>
